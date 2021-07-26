@@ -1,0 +1,6 @@
+P&P_Files/*
+SARF_Template/*
+scripts/__pycache__/*
+*.pdf
+*.xlsx
+*.xls
